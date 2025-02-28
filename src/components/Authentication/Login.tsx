@@ -1,8 +1,11 @@
 import React from 'react'
 
+
+
 function Login() {
   return (
       <div className="w-full h-screen flex justify-center align-center bg-pink-500">
+        
         <div className="w-8/12 mt-12 h-[700px] rounded-lg bg-white relative text-center">
             <div >
             <p className="text-2xl tracking-wide text-primary-dark-blue mt-36">
